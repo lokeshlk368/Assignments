@@ -1,0 +1,52 @@
+body
+ {
+   margin:0px;
+   padding-top:15px;
+   padding-bott:15px;
+   padding-left:60px;
+   padding-right:60px;
+   border:8px solid #29AB87;
+}
+
+#header h1
+ {
+   color:#29AB87;
+   font-size:34px;
+ }
+
+a
+ {
+   color:#29AB87;
+   margin-left:10px;
+ }
+
+#image
+ {
+   float:left;
+ }
+#content
+ {
+   margin-right:35px;
+   position:relative;
+   left:28px;
+  }
+
+#content h2
+ {
+   font-size:33px;
+ }
+
+#content p
+ {
+   font-size:20px;
+ }
+
+#footer
+ {
+  float:left;
+ }
+
+p
+ {
+  font-size:21px;
+ }
