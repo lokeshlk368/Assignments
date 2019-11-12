@@ -1,0 +1,20 @@
+body
+{
+  margin:0px;
+  padding-top:15px;
+  padding-bottom:15px;
+  padding-left:60px;
+  padding-right:60px;
+  border:8px solid #29AB87;
+}
+
+#header h1
+ {
+   font-size:34px;
+ }
+
+a
+ {
+   color:#29AB87;
+   margin-left:10px;
+ }
